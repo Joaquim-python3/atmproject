@@ -1,7 +1,7 @@
 Olá pessoal, me chamo Joaquim Cabral, nesse projeto eu faço um sistema de caixa eletrônico com banco de dados MySql e que vai ter as mesma opções de um caixa eletrônico convencional.
 
 Tecnologias usadas:
-Java
+Java,
 MySql, XAMPP
 NetBeans 12 (eu usei ele pq eu queria usar interface gráfica, é bem mais facil usar com ele)
 
