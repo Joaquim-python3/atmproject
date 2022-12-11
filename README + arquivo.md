@@ -1,4 +1,4 @@
-Olá pessoal, me chamo Joaquim Cabral, esse é meu primeiro projeto, nele eu faço um sistema de caixa eletrônico com banco de dados MySql e que vai ter as mesma opções de um caixa eletrônico convencional.
+Olá pessoal, me chamo Joaquim Cabral, esse é meu primeiro projeto em Java, nele eu faço um sistema de caixa eletrônico com banco de dados MySql e que vai ter as mesma opções de um caixa eletrônico convencional.
 
 Tecnologias usadas:
 Java,
