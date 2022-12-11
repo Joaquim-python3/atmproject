@@ -2,7 +2,7 @@ Olá pessoal, me chamo Joaquim Cabral, esse é meu primeiro projeto em Java, nel
 
 Tecnologias usadas:
 Java,
-MySql, XAMPP
+MySql, XAMPP,
 NetBeans 12 (eu usei ele pq eu queria usar interface gráfica, é bem mais facil usar com ele)
 
 link do drive;
